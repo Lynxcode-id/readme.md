@@ -36,11 +36,15 @@
 
 ## 👨‍💻&nbsp; About Me
 
-🔸&nbsp; Developer WhatsApp Multi-Device Bot berbasis Node.js & Baileys
-🔸&nbsp; Fokus di plugin architecture, API integration, dan automation system
+🔸&nbsp; Developer WhatsApp Multi-Device Bot berbasis Node.js & Baileys.
+
+🔸&nbsp; Fokus di plugin architecture, API integration, dan automation system.
+
 🔸&nbsp; Pembuat & maintainer **ERINE-AI**
-🔸&nbsp; Aktif berbagi snippet & tools untuk komunitas bot developer
-🔸&nbsp; Selalu belajar hal baru di dunia automation & AI
+
+🔸&nbsp; Aktif berbagi snippet & tools untuk komunitas bot developer.
+
+🔸&nbsp; Selalu belajar hal baru di dunia automation & AI.
 
 <br>
 
